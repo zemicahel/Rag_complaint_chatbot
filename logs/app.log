@@ -1,0 +1,63 @@
+2026-02-18 19:31:48,123 - INFO - Using device: cpu
+2026-02-18 19:31:51,512 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-02-18 19:32:00,180 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-18 19:38:18,090 - INFO - Using device: cpu
+2026-02-18 19:38:18,324 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-02-18 19:38:25,267 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-18 19:38:25,335 - INFO - Vector store loaded successfully.
+2026-02-18 19:57:44,770 - INFO - FLAN-T5 model loaded successfully.
+2026-02-18 19:57:49,964 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.49.152.9:5000
+2026-02-18 19:57:49,964 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-18 19:57:49,969 - INFO -  * Restarting with stat
+2026-02-18 19:58:05,856 - INFO - Using device: cpu
+2026-02-18 19:58:06,087 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-02-18 19:58:13,902 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-18 19:58:14,019 - INFO - Vector store loaded successfully.
+2026-02-18 19:58:16,605 - INFO - FLAN-T5 model loaded successfully.
+2026-02-18 19:58:16,660 - WARNING -  * Debugger is active!
+2026-02-18 19:58:16,725 - INFO -  * Debugger PIN: 722-180-237
+2026-02-18 20:03:06,257 - INFO - Received query: How do I dispute an unauthorized credit card charge?
+2026-02-18 20:03:24,032 - INFO - Query processed successfully.
+2026-02-18 20:03:24,036 - INFO - 127.0.0.1 - - [18/Feb/2026 20:03:24] "POST /query HTTP/1.1" 200 -
+2026-02-18 20:18:27,379 - INFO - 127.0.0.1 - - [18/Feb/2026 20:18:27] "OPTIONS /query HTTP/1.1" 200 -
+2026-02-18 20:18:27,391 - INFO - Received query: How do I dispute an unauthorized credit card charge?
+2026-02-18 20:18:31,905 - INFO - Query processed successfully.
+2026-02-18 20:18:31,906 - INFO - 127.0.0.1 - - [18/Feb/2026 20:18:31] "POST /query HTTP/1.1" 200 -
+2026-02-18 20:20:29,640 - INFO - 127.0.0.1 - - [18/Feb/2026 20:20:29] "OPTIONS /query HTTP/1.1" 200 -
+2026-02-18 20:20:29,645 - INFO - Received query: How do I dispute an unauthorized credit card charge?
+2026-02-18 20:20:33,317 - INFO - Query processed successfully.
+2026-02-18 20:20:33,317 - INFO - 127.0.0.1 - - [18/Feb/2026 20:20:33] "POST /query HTTP/1.1" 200 -
+2026-02-18 20:24:56,869 - INFO -  * Detected change in '/Users/mac/Documents/kaim/Rag_complaint_chatbot/rag_pipeline.py', reloading
+2026-02-18 20:25:00,378 - INFO -  * Restarting with stat
+2026-02-18 20:25:14,187 - INFO - Using device: cpu
+2026-02-18 20:25:14,423 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-02-18 20:25:21,642 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-18 20:25:21,747 - INFO - Vector store loaded successfully.
+2026-02-18 20:25:24,166 - INFO - FLAN-T5 model loaded successfully.
+2026-02-18 20:25:24,205 - WARNING -  * Debugger is active!
+2026-02-18 20:25:24,219 - INFO -  * Debugger PIN: 722-180-237
+2026-02-18 20:25:55,604 - INFO - Using device: cpu
+2026-02-18 20:25:55,709 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-02-18 20:26:03,183 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-18 20:26:03,260 - INFO - Vector store loaded successfully.
+2026-02-18 20:26:05,663 - INFO - FLAN-T5 model loaded successfully.
+2026-02-18 20:26:10,699 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.49.152.9:5000
+2026-02-18 20:26:10,699 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-18 20:26:10,701 - INFO -  * Restarting with stat
+2026-02-18 20:26:18,853 - INFO - Using device: cpu
+2026-02-18 20:26:18,939 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-02-18 20:26:26,082 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-18 20:26:26,158 - INFO - Vector store loaded successfully.
+2026-02-18 20:26:28,618 - INFO - FLAN-T5 model loaded successfully.
+2026-02-18 20:26:28,650 - WARNING -  * Debugger is active!
+2026-02-18 20:26:28,665 - INFO -  * Debugger PIN: 722-180-237
+2026-02-18 20:26:28,761 - INFO - 127.0.0.1 - - [18/Feb/2026 20:26:28] "OPTIONS /query HTTP/1.1" 200 -
+2026-02-18 20:26:28,763 - INFO - Received query: How do I dispute an unauthorized credit card charge?
+2026-02-18 20:26:33,192 - INFO - Query processed successfully.
+2026-02-18 20:26:33,193 - INFO - 127.0.0.1 - - [18/Feb/2026 20:26:33] "POST /query HTTP/1.1" 200 -
